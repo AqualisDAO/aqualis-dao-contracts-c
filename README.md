@@ -1,6 +1,6 @@
 # curve-dao-contracts
 
-Vyper contracts used in the [Curve](https://www.curve.fi/) Governance DAO.
+Vyper contracts used in Aqualis DAO Contracts c.
 
 ## Overview
 
